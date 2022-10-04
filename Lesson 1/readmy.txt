@@ -1,4 +1,4 @@
-##First lesson (basic git command)
+## First lesson (basic git command)
 ###1. git init - связывание локального проекта с удалённым репозиторием.
 ###2. git status - статус репозитория и файлов 
 
