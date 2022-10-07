@@ -1,1 +1,4 @@
-## Tenth lesson ()
+## Eleventh lesson (Branching: merge conflict)
+
+    Если два человека изменяют один и тотже файл, возникает конфликт.
+    Решать их необходимо вручную.
